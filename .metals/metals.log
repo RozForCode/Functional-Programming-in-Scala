@@ -62,3 +62,11 @@ org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequ
 
 2025.12.24 21:54:51 INFO  Started: Metals version 1.6.4 in folders 'C:\Users\navro\AllThings\Github\Programming\Scala' for client Visual Studio Code 1.107.1.
 2025.12.24 21:54:52 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+Dec 24, 2025 9:56:32 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Dec 24, 2025 9:56:32 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Dec 24, 2025 9:57:21 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Dec 24, 2025 9:57:21 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
